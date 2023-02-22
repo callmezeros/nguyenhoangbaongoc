@@ -1,0 +1,96 @@
+body {
+    background-color: #ffe3e3;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin-top: 150px;
+    color: #b80000;
+    text-shadow: 2px 2px #ffd1d1;
+  }
+  
+  p {
+    font-size: 1.5em;
+    margin-top: 6cm;
+    margin-bottom: 50px;
+    color: #b80000;
+    text-shadow: 1px 1px #ffd1d1;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px #ffd1d1;
+    position: relative;
+  }
+
+  .profile-pic {
+    width: 12%;
+    position: absolute;
+    top: 220px;
+    right: 680px;
+  }
+  
+
+  .balloon1 {
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+    width: 15%;
+    z-index: 1;
+  }
+  
+  .balloon2 {
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+    width: 15%;
+    z-index: 1;
+  }
+  
+  .balloon3 {
+    position: absolute;
+    top: -2cm;
+    left: 42.5%;
+    width: 15%;
+    z-index: 1;
+  }
+  
+  .giftbox1 {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    width: 12%;
+    rotate: -15deg;
+    z-index: 1;
+  }
+  
+  .giftbox2 {
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    width: 15%;
+rotate: 15deg;
+    z-index: 1;
+  }
+  
+  .firework1 {
+    position: absolute;
+    top: -5%;
+    left: 0;
+    width: 16%;
+    z-index: 1;
+  }
+  
+  .firework2 {
+    position: absolute;
+    top: -5%;
+    right: 0;
+    width: 16%;
+    z-index: 1;
+  }
